@@ -1,9 +1,9 @@
 ---
 name: Theresa Honein
 role: Instructor
-email: theresa.honein at aub.edu.lb
+email: theresa_honein at berkeley.edu
 website: https://thh00.github.io
 photo: theresa.JPG
 meta:
-  Office Hours: See [schedule](https://mech230.github.io/schedule/).
+  Office Hours: See [schedule](https://thh00.github.io/me104/schedule/).
 ---

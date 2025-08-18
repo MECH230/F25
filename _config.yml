@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MECH230
+title: ME104
 tagline: Undergraduate Dynamics Course Website
-description: American University of Beirut, Lebanon
+description: University of California at Berkeley
 author: Theresa Honein
 baseurl: '/F25' # the subpath of your site, e.g. /blog
 url: 'https://mech230.github.io' # the base hostname & protocol for your site, e.g. http://example.com
@@ -32,12 +32,10 @@ permalink: pretty
 nav:
   - title: Announcements
     url: /announcements/
-  - title: Calendar (Honein)
-    url: /calendar-honein/
-  - title: Calendar (Bakarji)
-    url: /calendar-bakarji/
-  - title: Resources
-    url: /resources/
+  - title: Calendar
+    url: /calendar/
+  - title: Syllabus
+    url: /syllabus/
   - title: Schedule
     url: /schedule/
   - title: Staff
@@ -46,16 +44,12 @@ nav:
 aux_links:
   Theresa Honein:
     - 'https://thh00.github.io'
-  Joseph Bakarji:
-    - 'https://www.josephbakarji.com'
 footer_content:
 
 # Collections for website data
 collections:
   staffers:
-  modules_honein:
-    output: true
-  modules_bakarji:
+  modules:
     output: true
   schedules:
   announcements:
@@ -72,12 +66,7 @@ defaults:
       width: 300
   - scope:
       path: ''
-      type: modules_honein
-    values:
-      layout: module
-  - scope:
-      path: ''
-      type: modules_bakarji
+      type: modules
     values:
       layout: module
   - scope:
