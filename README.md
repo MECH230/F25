@@ -12,9 +12,9 @@ seo:
 
 | Exam | Date | Location |
 | -- | -- | -- |
-| Midterm 1 | Thursday July 3 at 10-11:30 am | Etcheverry 3113 |
-| Midterm 2 | Tuesday July 22 at 10-11:30am | Etcheverry 3113 |
-| Final Exam | Thursday August 14 at 10am-12pm | Etcheverry 3113 |
+| Exam 1 | Saturday September 27 at 9-11am | IOEC 224ABC |
+| Exam 2 | Saturday November 1 at 9-11am | IOEC 224ABC|
+| Final Exam | TBD between December 3-12 | TBD |
 
 # Previous Exams
 
