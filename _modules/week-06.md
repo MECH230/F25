@@ -7,29 +7,22 @@ contents:
         topics:
           - Linear impulse and linear momentum
       - type: problem_set
-        title: Set 15 - Kinematics of Rigid Bodies
-        description: Kinematics of Rigid Bodies
-        link: "https://drive.google.com/file/d/1ly3MSTed2wXnHuEySQlLuawF8KSgCQap/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1DYtGU7qQpwb_kMelhRqc25XkwvtMbYQV/view?usp=sharing"
-      - type: problem_set
-        title: Set 16 - IC and Motion wrt RB
-        description: IC and Motion wrt RB
-        link: "https://drive.google.com/file/d/1HVbTJD8fqiG_8RTUu4BO4BnaaIzT8-1f/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1DT7o3JM29v_CRzUxBSlhVtdLj_6JfjxN/view?usp=sharing"
-      - type: reading
-        title: Lecture notes on rigid body kinematics
-        description: reading
-        link: "https://drive.google.com/file/d/1rt5DSxVMmZnwdI5kQO6EvpRmijnrSQ94/view?usp=sharing"
-      - type: quiz
-        title: Quiz 9.1 Tensor Product
-        description: Quiz 9.1 Tensor Product
-        link: "https://drive.google.com/file/d/1U5icQwJPlcJmDEnLGDbzH4qMi9L3GF-I/view?usp=share_link"
-        solution_link: "https://drive.google.com/file/d/1rK_ihsNoITPUDhwNs016NTsg-spxAEPv/view?usp=sharing"
-      - type: quiz
-        title: Quiz 9.2 Velocity Analysis
-        description: Quiz 9.2 Velocity Analysis
-        link: "https://drive.google.com/file/d/1_6EWX8nkgP1NufdGMUIMXuGhryE22YMb/view?usp=share_link"
-        solution_link: "https://drive.google.com/file/d/1ypiwcQYJjEO4eUdlv0UcMNg3vebyR-oq/view?usp=sharing"
+        title: Set 12 - Momenta and Impulses for a Particle
+        description: Momenta and Impulses for a Particle
+        link: "https://drive.google.com/file/d/1k9Gtt8JDXRPBOS6h7JQ-CflW7D-ezmMs/view?usp=drivesdk"
+        solution_link: "https://drive.google.com/file/d/1D3IDI7hp4rkAyXqQ8OacE-UwXup616qn/view?usp=sharing"
+      - type: lecture_video
+        title: 1. (11 min) Linear momentum + conservation
+        link: "https://youtu.be/-AHQOYy3VBk"
+      - type: lecture_video
+        title: 2. (06 min) Conservation of linear momentum along a fixed direction
+        link: "https://youtu.be/_3a0CbiLJ18"
+      - type: exercise_video
+        title: 3. (15 min) 03/159
+        link: "https://youtu.be/ugj4fefUN4c"
+      - type: exercise_video
+        title: 4. (15 min) 03/161
+        link: "https://youtu.be/Q-F7ew3jFuQ"
 
   - date: 2025-09-30
     items:
@@ -50,21 +43,28 @@ contents:
       - type: lecture
         topics:
           - Angular impulse and angular momentum
-      - type: problem_set
-        title: Set 17 - Rolling and Sliding
-        description: Rolling and Sliding
-        link: "https://drive.google.com/file/d/1TG-p-p5oe03MGBDSplyQve9iaqZs85_e/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1Dl1Zax64CwjlrE-ACekM2AEf0ZkXbD2X/view?usp=sharing"
-      - type: demo
-        title: IC of crank slider
-        link: "https://drive.google.com/file/d/1L8b1ugg4xQuPK5m5tOVo0bzk16HRia5a/view?usp=sharing"
-      - type: quiz
-        title: Quiz 10
-        description: Quiz 10
-        link: "https://drive.google.com/file/d/11Y_pN1rvoL38-ozrkifgvyF-GFE2KXRe/view?usp=sharing"
-        solution_link: "https://drive.google.com/file/d/1dxKkzFiD3zJXxr31iCbWPzcGXMX0Lu-9/view?usp=sharing"
+      - type: lecture_video
+        title: 5. (05 min) Review - calculating the moment of a force
+        link: "https://youtu.be/qiFdls4aFsw"
+      - type: lecture_video
+        title: 6. (02 min) Angular momentum definition
+        link: "https://youtu.be/RohK7Sk-pCg"
+      - type: lecture_video
+        title: 7. (04 min) Balance of angular momentum
+        link: "https://youtu.be/5oHdJJfxGvk"
+      - type: lecture_video
+        title: 8. (05 min) Conservation of angular momentum
+        link: "https://youtu.be/9TFLI5Tjiv8"
+      - type: exercise_video
+        title: 9. (04 min) 03/185
+        link: "https://youtu.be/V3ussTTlrs8"
+      - type: lecture_video
+        title: 10. (10 min) Conservations - linear momentum vs. angular momentum vs. energy
+        link: "https://www.youtube.com/watch?v=MEwpRoLB7KM"
       - type: homework
-        title: HW 06 - Merry-go-round animation
-        link: "https://drive.google.com/file/d/1s9X3Y3I_NPuiQH3XcDvSxXy0Coz9YLKB/view?usp=share_link"
-        due_date: 2025-07-25
+        title: HW 05 - orbital mechanics
+        link: "https://drive.google.com/file/d/1ChZTfDnsX4_58ugmQE_gJdRsG-Rmqqeb/view?usp=share_link"
+        due_date: 2025-10-09
+
+      
 ---

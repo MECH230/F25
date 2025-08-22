@@ -7,28 +7,24 @@ contents:
         topics:
           - Spring force
       - type: problem_set
-        title: Set 11 - Power, Work and Energy
-        description: Power, Work and Energy
-        link: "https://drive.google.com/file/d/1WB9MIlmOi6AQ2R5Perhf5mRFoWb9DuHB/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1D13QKwk_by1qZ1BfLU4vpF8-n1opbhDZ/view?usp=sharing"
+        title: Set 09 - Linear Springs
+        link: "https://drive.google.com/file/d/1zcm9KN42Fokud1WwjCEeEt4B-KT5stpI/view?usp=drivesdk"
+        solution_link: "https://drive.google.com/file/d/1CJ9rMCZ5_6RHZvypBIinyAXn2I0TJSfO/view?usp=sharing"
       - type: lecture_video
-        title: Gravitation force model
-        link: "https://www.youtube.com/watch?v=nHnDuCWtacY"
-      - type: quiz
-        title: Quiz 6
-        description: Quiz 6
-        link: "https://drive.google.com/file/d/1PZEX9VVzDaWu4Y9IKYSsAz_bAPdlIQ3m/view?usp=share_link"
-        solution_link: "https://drive.google.com/file/d/1rFc41UkshCabb6pkUBrHpWROBG4sHV5g/view?usp=share_link"
-      - type: reading
-        title: Conservative forces and their potential
-        description: reading
-        link: "https://drive.google.com/file/d/1ZkdqsPzFe2r-aTFFd1BEd3b8L2MqyxHh/view?usp=share_link"
+        title: Explaining spring force
+        link: "https://www.youtube.com/watch?v=WtTDHW2JUVY"
+      - type: lecture_video
+        title: Spring force examples
+        link: "https://www.youtube.com/watch?v=YiOZregJx9w"
+      - type: exercise_video
+        title: Problem 08-004
+        link: "https://youtu.be/YE9N2f2qTqg"
 
   - date: 2025-07-02
     items:
       - type: exercise
         topics:
-          - Prep for Midterm 1, normal tangential, friction, springs
+          - tbd
       - type: problem_set
         title: Extra problems
         link: "https://drive.google.com/file/d/1WaipiMmWddWer_DrAZcLhzDUnNOMbbq6/view?usp=sharing"
@@ -39,8 +35,14 @@ contents:
       - type: lecture
         topics:
           - Friction
-      - type: homework
-        title: HW 04 - Energy plots for all previous homework
-        link: "https://drive.google.com/file/d/1rWui0WEHkADA09vrzDrvqS-DLlC06Zix/view?usp=share_link"
-        due_date: 2025-07-11
----
+      - type: lecture_video
+        title: Explaining the friction force
+        link: "https://www.youtube.com/watch?v=_fvCFtpL3c8"
+      - type: problem_set
+        title: Set 10 - Friction
+        link: "https://drive.google.com/file/d/1BsacnK5BUjR_4CQXt7pW7BM2vrtYed5p/view?usp=drivesdk"
+        solution_link: "https://drive.google.com/file/d/1Csp0G7hLXIq17-zpl7jypNGhiKP4vSXt/view?usp=sharing"
+      - type: exercise_video
+        title: Problem 03-071
+        link: "https://youtu.be/RDFfE0tFTnk"
+---      

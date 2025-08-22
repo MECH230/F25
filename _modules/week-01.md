@@ -54,23 +54,20 @@ contents:
         description: Vector Calculus
         link: "https://drive.google.com/file/d/1F4QUVzsbl2mYeqmdno3JuVJw7d2dQsv8/view?usp=drivesdk"
         solution_link: "###"
-      - type: homework
-        title: HW 01 - Projectile with drag
-        link: "https://drive.google.com/file/d/1Yn84NqvpxOFfLHk5-UrZjdwFv6fIQ11F/view?usp=drivesdk"
-        solution_link: "###"
-        due_date: 2025-06-20
       - type: exercise_video
         title: Problem 03-004
         link: "https://youtu.be/LAl3ZUiUpus"
       - type: lecture_video
         title: Solving differential equations numerically in Python
         link: "https://youtu.be/RMkMK32vqyM?si=3FpVpoOILf77oe3J"
-      - type: lecture_video
-        title: Animating the motion of a pendulum in Python
-        link: "https://youtu.be/pj7kitk0VcI?si=d-8aW02MytXgkhBs"
       - type: quiz
         title: Quiz 2
         description: Quiz 2
         link: "###"
         solution_link: "###"
+      - type: homework
+        title: HW 01 - Projectile with drag
+        link: "https://drive.google.com/file/d/1Yn84NqvpxOFfLHk5-UrZjdwFv6fIQ11F/view?usp=drivesdk"
+        solution_link: "###"
+        due_date: 2025-06-26
 ---

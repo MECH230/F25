@@ -42,6 +42,9 @@ contents:
         description: Constrained Motion
         link: "https://drive.google.com/file/d/1sKtW-Kc42Lx-TR4QDQ5RgpxcQhGDDRXz/view?usp=drivesdk"
         solution_link: "###"
+      - type: lecture_video
+        title: Animating the motion of a pendulum in Python
+        link: "https://youtu.be/pj7kitk0VcI?si=d-8aW02MytXgkhBs"
       - type: homework
         title: HW 02 - Spring pendulum
         link: "https://drive.google.com/file/d/15mGYHKu7pKa7WgmcNkmyaDrAocBD7iqm/view?usp=share_link"

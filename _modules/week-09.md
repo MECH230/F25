@@ -7,26 +7,15 @@ contents:
         topics:
         - Kinematics of Rigid Bodies
         - Velocity and Acceleration Analysis of Two Material Points on a Rigid Body
-      - type: demo
-        title: Angular momentum conservation on Hoberman Sphere - Dr. Boyd F. Edwards
-        link: "https://www.youtube.com/watch?v=64t-dVtDwkQ"
-      - type: demo
-        title: Ice skater conservation of angular momentum
-        link: "https://www.youtube.com/shorts/VmeM0BNnGR0"
       - type: problem_set
-        title: Set 22 - Impulse Momentum for RB
-        description: Impulse Momentum for RB
-        link: "https://drive.google.com/file/d/116_8ptZ6PmlEzuNu7fXu4ORFZznopqk4/view?usp=drivesdk"
-      - type: quiz
-        title: Quiz 14
-        description: Quiz 14
-        link: "https://drive.google.com/file/d/1znJRlsam9_fvExql_QR8ijK2e9VkpWx4/view?usp=sharing"
-      - type: homework
-        title: HW 08 - TBD
-        link: "https://drive.google.com/file/d/1hDp2QectLgGx4C8dnXimnmZgZOdFH771/view?usp=sharing"
-        due_date: 2025-08-12
-
-
+        title: Set 15 - Kinematics of Rigid Bodies
+        description: Kinematics of Rigid Bodies
+        link: "https://drive.google.com/file/d/1ly3MSTed2wXnHuEySQlLuawF8KSgCQap/view?usp=drivesdk"
+        solution_link: "https://drive.google.com/file/d/1DYtGU7qQpwb_kMelhRqc25XkwvtMbYQV/view?usp=sharing"
+      - type: reading
+        title: Lecture notes on rigid body kinematics
+        description: reading
+        link: "https://drive.google.com/file/d/1rt5DSxVMmZnwdI5kQO6EvpRmijnrSQ94/view?usp=sharing"
 
   - date: 2025-10-21
     items:
@@ -39,26 +28,16 @@ contents:
         - Instantaneous Center of Rotation
         - Relative motion of particles with respect to a rigid body
       - type: problem_set
-        title: Set 23 - Work-Energy Theorem for RB
-        description: Work-Energy Theorem for RB
-        link: "https://drive.google.com/file/d/1Rm52iKlLwpMrStha4w3dxqBGBs0OYq9c/view?usp=drivesdk"
-      - type: lecture_video
-        title: Introducing the work-energy theorem of a rigid body
-        link: "https://youtu.be/acmYFwl8rRo?si=s4NJ5lJKfXNWWTzD"
-      - type: lecture_video
-        title: Deriving the expression for the kinetic energy of a rigid body
-        link: "https://youtu.be/3HRYCW7wiRs?si=leuUvpe4cM1V0E5g"
-      - type: lecture_video
-        title: Kinetic energy of a rigid body rotating about a fixed point
-        link: "https://youtube.com/shorts/3bu7kY8JLpM?si=dEQ_0xEl9QbyApRS"
-      - type: lecture_video
-        title: Deriving the work-energy theorem for a rigid body
-        link: "https://youtu.be/vCROTYHJRow?si=pZfkxNbll5eh7nlh"
-      - type: exercise_video
-        title: Problem 06-118
-        link: "https://youtu.be/-jdslhyHAIY"
-      - type: quiz
-        title: Quiz 15
-        description: Quiz 15
-        link: "??"
+        title: Set 16 - IC and Motion wrt RB
+        description: IC and Motion wrt RB
+        link: "https://drive.google.com/file/d/1HVbTJD8fqiG_8RTUu4BO4BnaaIzT8-1f/view?usp=drivesdk"
+        solution_link: "https://drive.google.com/file/d/1DT7o3JM29v_CRzUxBSlhVtdLj_6JfjxN/view?usp=sharing"
+      - type: demo
+        title: IC of crank slider
+        link: "https://drive.google.com/file/d/1L8b1ugg4xQuPK5m5tOVo0bzk16HRia5a/view?usp=sharing"
+      - type: homework
+        title: HW 06 - Merry-go-round animation
+        link: "https://drive.google.com/file/d/1s9X3Y3I_NPuiQH3XcDvSxXy0Coz9YLKB/view?usp=share_link"
+        due_date: 2025-10-30
+
 ---
