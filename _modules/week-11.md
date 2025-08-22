@@ -1,19 +1,19 @@
 ---
 title: Week 10
 contents:
-  - date: 2025-08-12
+  - date: 2025-11-04
     items:
       - type: lecture
         topics:
         - Rigid Bodies in Translation
 
-  - date: 2025-08-13
+  - date: 2025-11-04
     items:
       - type: exercise
         topics:
           - TBD
 
-  - date: 2025-08-14
+  - date: 2025-11-06
     items:
       - type: lecture
         topics:

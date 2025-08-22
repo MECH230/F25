@@ -1,7 +1,7 @@
 ---
 title: Week 08
 contents:
-  - date: 2025-07-29
+  - date: 2025-10-14
     items:
       - type: lecture
         topics:
@@ -24,7 +24,7 @@ contents:
 
 
 
-  - date: 2025-07-30
+  - date: 2025-10-14
     items:
       - type: exercise
         topics:
@@ -37,7 +37,7 @@ contents:
         solution_link: "https://drive.google.com/file/d/1UG7nz-ozu5CzIKJ_66lqHOe3ksRsywHU/view?usp=sharing"
         
 
-  - date: 2025-07-31
+  - date: 2025-10-16
     items:
       - type: lecture
         topics:

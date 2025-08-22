@@ -1,25 +1,19 @@
 ---
 title: Week 10
 contents:
-  - date: 2025-08-12
+  - date: 2025-10-28
     items:
       - type: lecture
         topics:
         - Rolling and Sliding
-      - type: quiz
-        title: Quiz 16
-        description: Quiz 16
-        link: "??"
 
-
-
-  - date: 2025-08-13
+  - date: 2025-10-28
     items:
       - type: exercise
         topics:
           - TBD
 
-  - date: 2025-08-14
+  - date: 2025-10-30
     items:
       - type: lecture
         topics:

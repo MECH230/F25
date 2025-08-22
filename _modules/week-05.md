@@ -1,7 +1,7 @@
 ---
 title: Week 05
 contents:
-  - date: 2025-07-08
+  - date: 2025-09-23
     items:
       - type: lecture
         topics:
@@ -57,7 +57,7 @@ contents:
         title: 13. (6 min) Two particles impacting in the plane
         link: "https://youtu.be/4zI-bUmKLKI"
 
-  - date: 2025-07-09
+  - date: 2025-09-23
     items:
       - type: problem_set
         title: Extra problems Discussion 5 - Work, energy, momentum, collisions
@@ -70,7 +70,7 @@ contents:
         link: "https://drive.google.com/file/d/19sm9HPe44pRXq3xq1-m-1pFATwBnaJBh/view?usp=sharing"
         solution_link: "https://drive.google.com/file/d/1B5fiuEizvrKtT0IQ5qWpzqKTQkJdFR7L/view?usp=sharing"
 
-  - date: 2025-07-10
+  - date: 2025-09-25
     items:
       - type: lecture
         topics:

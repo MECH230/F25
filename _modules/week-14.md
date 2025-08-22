@@ -1,19 +1,19 @@
 ---
 title: Week 10
 contents:
-  - date: 2025-08-12
+  - date: 2025-11-25
     items:
       - type: lecture
         topics:
         - Review
 
-  - date: 2025-08-13
+  - date: 2025-11-25
     items:
       - type: exercise
         topics:
           - TBD
 
-  - date: 2025-08-14
+  - date: 2025-11-27
     items:
       - type: lecture
         topics:

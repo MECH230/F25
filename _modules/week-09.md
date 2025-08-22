@@ -1,7 +1,7 @@
 ---
 title: Week 09
 contents:
-  - date: 2025-08-05
+  - date: 2025-10-21
     items:
       - type: lecture
         topics:
@@ -28,11 +28,11 @@ contents:
 
 
 
-  - date: 2025-08-06
+  - date: 2025-10-21
     items:
       - type: exercise
 
-  - date: 2025-08-07
+  - date: 2025-10-23
     items:
       - type: lecture
         topics:

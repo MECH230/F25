@@ -1,7 +1,7 @@
 ---
 title: Week 07
 contents:
-  - date: 2025-07-22
+  - date: 2025-10-07
     items:
       - type: lecture
         topics:
@@ -46,7 +46,7 @@ contents:
 
 
 
-  - date: 2025-07-23
+  - date: 2025-10-07
     items:
       - type: exercise
         topics:
@@ -59,7 +59,7 @@ contents:
         title: link to canvas bcourses - recording published, but mic battery died at the end
         link: "https://bcourses.berkeley.edu/courses/1545207/external_tools/90481"
 
-  - date: 2025-07-24
+  - date: 2025-10-09
     items:
       - type: lecture
         topics:

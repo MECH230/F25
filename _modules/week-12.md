@@ -1,23 +1,19 @@
 ---
 title: Week 10
 contents:
-  - date: 2025-08-12
+  - date: 2025-11-11
     items:
       - type: lecture
         topics:
         - General Plane Motion
-      - type: quiz
-        title: Quiz 16
-        description: Quiz 16
-        link: "??"
 
-  - date: 2025-08-13
+  - date: 2025-11-11
     items:
       - type: exercise
         topics:
           - TBD
 
-  - date: 2025-08-14
+  - date: 2025-11-13
     items:
       - type: lecture
         topics:
