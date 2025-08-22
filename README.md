@@ -27,3 +27,11 @@ seo:
 | Spring 2026 | Exam | Solution | Exam | Solution | Final | Final Formula Sheet | Solution |
 
 
+# Contributors to website and content
+Many thanks to (in no particular order)
+- Charbel Ziade (AUB, graduate)
+- Ekaterina Aleksandrovna Antimirova (UC Berkeley)
+- Wafic Itani (AUB, undergraduate)
+- Dr. Joseph Bakarji
+
+

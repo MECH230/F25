@@ -1,12 +1,11 @@
 ---
 title: Week 03
 contents:
-  - date: 2025-06-24
+  - date: 2025-09-09
     items:
       - type: lecture
         topics:
           - The Serret-Frenet Basis
-          - The Serret-Frenet Triad (Curvature of a plane curve)
       - type: problem_set
         title: Set 07 - Serret Frenet Basis
         description: The Serret-Frenet Triad (Kinematics and kinetics)
@@ -55,8 +54,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - Spring force
-          - Friction
+          - The Serret-Frenet Triad (Curvature of a plane curve)
           - A particle moving on a curve vs. a particle moving on a surface
       - type: problem_set
         title: Set 09 - Linear Springs

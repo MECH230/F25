@@ -5,7 +5,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - Moments of Inertia
+          - Collisions
       - type: quiz
         title: Midterm II
         description: Midterm II
@@ -50,8 +50,7 @@ contents:
     items:
       - type: exercise
         topics:
-          - Rolling, slipping
-          - Relative motion of particles with respect to a rigid body
+          - tbd
       - type: problem_set
         title: Discussion 7 Problems + Useful Reference Sheet on Rigid Body Dynamics
         link: "https://drive.google.com/file/d/1r4mcrdex59m3rWJWjxhK85bionFg1IKr/view?usp=sharing"
@@ -64,8 +63,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - Moments of Inertia, cont.
-          - Rigid Bodies in Translation
+          - Collisions, cont.
       - type: problem_set
         title: Set 19 - RB Translation
         description: RB Translation

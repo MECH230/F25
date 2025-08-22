@@ -5,10 +5,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - Definitions of power, work and kinetic energy
-          - Deriving the work-energy theorem
-          - Conservation of energy
-          - Gravitation force model
+          - Spring force
       - type: problem_set
         title: Set 11 - Power, Work and Energy
         description: Power, Work and Energy
@@ -41,7 +38,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - MIDTERM I
+          - Friction
       - type: homework
         title: HW 04 - Energy plots for all previous homework
         link: "https://drive.google.com/file/d/1rWui0WEHkADA09vrzDrvqS-DLlC06Zix/view?usp=share_link"

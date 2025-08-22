@@ -17,7 +17,7 @@ description: >-
 ---
 
 ## Complete Syllabus
-You can find the complete syllabus [here](https://drive.google.com/file/d/1UQTwvD-vhbpx2lC4R00NaTm-6hGOOxC9/view?usp=sharing).
+You can find the complete syllabus [here](https://drive.google.com/file/d/1GaEhTCDMtyIplww_ql51YKvpQ-FzFdDF/view?usp=sharing).
 The main points are summarized below.
 
 ## Instructor: Theresa Honein

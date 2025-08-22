@@ -5,9 +5,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - Kinematics of Rigid Bodies
-          - Velocity and Acceleration Analysis of Two Material Points on a Rigid Body
-          - The motion of a point moving with respect to a RB
+          - Linear impulse and linear momentum
       - type: problem_set
         title: Set 15 - Kinematics of Rigid Bodies
         description: Kinematics of Rigid Bodies
@@ -50,8 +48,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - Rolling and Sliding
-          - Instantaneous Center of Rotation
+          - Angular impulse and angular momentum
       - type: problem_set
         title: Set 17 - Rolling and Sliding
         description: Rolling and Sliding

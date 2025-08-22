@@ -5,10 +5,8 @@ contents:
     items:
       - type: lecture
         topics:
-          - NO IN-PERSON LECTURE!
-          - Linear impulse and linear momentum
-          - Angular impulse and angular momentum
-          - Collisions
+          - Definitions of power, work and kinetic energy
+          - Deriving the work-energy theorem
       - type: problem_set
         title: Set 12 - Momenta and Impulses for a Particle
         description: Momenta and Impulses for a Particle
@@ -76,7 +74,8 @@ contents:
     items:
       - type: lecture
         topics:
-          - System of particles
+          - Conservation of energy
+          - Gravitation force model
       - type: problem_set
         title: Set 14 - System of particles
         description: System of particles

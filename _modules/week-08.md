@@ -5,7 +5,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - Fixed point rotation
+          - System of particles
       - type: problem_set
         title: Set 20 - Fixed Point Rotation
         description: Fixed Point Rotation
@@ -41,7 +41,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - General Plane Motion
+          - System of particles, cont.
       - type: exercise_video
         title: Problem 06-070
         link: "https://youtu.be/0_wB2JnICLc"

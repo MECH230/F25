@@ -5,13 +5,7 @@ contents:
     items:
       - type: lecture
         topics:
-        - Rolling and Sliding
-      - type: quiz
-        title: Quiz 16
-        description: Quiz 16
-        link: "??"
-
-
+        - Review
 
   - date: 2025-08-13
     items:
@@ -23,5 +17,5 @@ contents:
     items:
       - type: lecture
         topics:
-          - Moments of Inertia
+          - Review
 ---

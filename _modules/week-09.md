@@ -5,7 +5,8 @@ contents:
     items:
       - type: lecture
         topics:
-        - Impulse Momentum for RB
+        - Kinematics of Rigid Bodies
+        - Velocity and Acceleration Analysis of Two Material Points on a Rigid Body
       - type: demo
         title: Angular momentum conservation on Hoberman Sphere - Dr. Boyd F. Edwards
         link: "https://www.youtube.com/watch?v=64t-dVtDwkQ"
@@ -35,7 +36,8 @@ contents:
     items:
       - type: lecture
         topics:
-          - Work-Energy Theorem for RB
+        - Instantaneous Center of Rotation
+        - Relative motion of particles with respect to a rigid body
       - type: problem_set
         title: Set 23 - Work-Energy Theorem for RB
         description: Work-Energy Theorem for RB
