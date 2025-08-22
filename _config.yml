@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: MECH230-Section1
 tagline: Undergraduate Dynamics Course Website
-description: University of California at Berkeley
+description: American University of Beirut
 author: Theresa Honein
 baseurl: '/F25' # the subpath of your site, e.g. /blog
 url: 'https://mech230.github.io' # the base hostname & protocol for your site, e.g. http://example.com

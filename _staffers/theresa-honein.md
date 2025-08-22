@@ -1,7 +1,7 @@
 ---
 name: Theresa Honein
 role: Instructor
-email: theresa_honein at berkeley.edu
+email: th72 at aub.edu.lb
 website: https://thh00.github.io
 photo: theresa.JPG
 meta:
