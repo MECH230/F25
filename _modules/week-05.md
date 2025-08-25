@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Week 05
 contents:
   - date: 2025-09-23
@@ -46,4 +46,4 @@ contents:
         title: HW 04 - Energy plots for all previous homework
         link: "https://drive.google.com/file/d/1rWui0WEHkADA09vrzDrvqS-DLlC06Zix/view?usp=share_link"
         due_date: 2025-07-25
----
+--- -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Week 11
 contents:
   - date: 2025-11-04
@@ -33,4 +33,4 @@ contents:
         title: HW 07 - Plate fixed point rotation
         link: "https://drive.google.com/file/d/1lduW4aX0pCclXLwqmDBVHaKtyY8OjUGy/view?usp=share_link"
         due_date: 2025-11-13
----
+--- -->

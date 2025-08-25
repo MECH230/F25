@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Week 10
 contents:
   - date: 2025-10-28
@@ -63,4 +63,4 @@ contents:
         title: Derivation of the parallel axis theorem
         link: "https://drive.google.com/file/d/17k7Nb27wuspZUZosNP3G7_aEwLI8b4mq/view?usp=sharing"
 
----
+--- -->

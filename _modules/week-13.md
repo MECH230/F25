@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Week 13
 contents:
   - date: 2025-11-18
@@ -37,4 +37,4 @@ contents:
       - type: lecture
         topics:
           - Work-Energy Theorem for RB, cont.
----
+--- -->

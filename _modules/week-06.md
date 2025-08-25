@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Week 06
 contents:
   - date: 2025-09-30
@@ -67,4 +67,4 @@ contents:
         due_date: 2025-10-09
 
       
----
+--- -->
