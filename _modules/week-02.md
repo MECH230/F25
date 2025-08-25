@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Week 02
 contents:
   - date: 2025-09-02
@@ -49,4 +49,4 @@ contents:
         title: HW 02 - Spring pendulum
         link: "https://drive.google.com/file/d/15mGYHKu7pKa7WgmcNkmyaDrAocBD7iqm/view?usp=share_link"
         due_date: 2025-06-26
----
+--- -->

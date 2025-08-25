@@ -105,10 +105,7 @@ videos, discussion notes, discussion videos, etc. are under copyright. No part c
 etc.), reproduced or translated into another language without the written permission of Theresa Honein.
 
 ## Honor Code
-Cheating will not be tolerated. If you cheat, attempt to cheat, or fail to follow any of the
-teaching team's instructions during a quiz or exam, you will receive a zero on the
-assessment. If you cheat during an exam, you will fail the course and be reported to the
-MSFEA's disciplinary committee. There are no exceptions to this policy.
+Cheating will not be tolerated. If you cheat, attempt to cheat, or fail to follow any of the teaching team's instructions during a quiz or exam, you will receive a zero on the assessment. If you cheat during an exam, you will fail the course and be reported to the MSFEA's disciplinary committee. There are no exceptions to this policy.
 
 ## Active Learning
 Check out these two excellent videos of Professor Noel Perkins from the Univesity of Michigan at Ann Arbor explaining the active learning techniques he uses to teach dynamics! [Part 1](https://www.youtube.com/watch?v=wHEys-JHeb8), [Part 2](https://www.youtube.com/watch?v=96j69u4v-wE). We will using these techniques ourselves.

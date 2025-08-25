@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Week 03
 contents:
   - date: 2025-09-09
@@ -63,4 +63,4 @@ contents:
         title: HW 03 - Particles on helix
         link: "https://drive.google.com/file/d/1AvefEuP7eYljS4oICjGSQNzPmrZSSOdd/view?usp=share_link"
         due_date: 2025-07-03
----
+--- -->
