@@ -90,8 +90,7 @@ All of the lectures will be taken from Professor O’Reilly’s book
 O. M. O’Reilly, Engineering Dynamics: A Primer, Third Edition
 Springer-Verlag, New York, 2019.
 
-The electronic version of this text is available for free [here](https://doi.org/10.1007/978-3-030-11745-0). You will need to install the [UC Berkeley Library Proxy](https://www.lib.berkeley.edu/help/proxy-server) to be able to
-view the book from oﬀ-campus.
+The electronic version of this text is available for free through the AUB library website.
 
 Problem set problems will be assigned from
 
