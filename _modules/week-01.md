@@ -11,12 +11,12 @@ contents:
       - type: problem_set
         title: Set 01 - Vector Calculus
         description: Vector Calculus
-        link: "https://drive.google.com/file/d/1ETBITc8JdvdtBQaS2U5su6DyOIOmNKsi/view?usp=drivesdk"
+        link: "https://drive.google.com/file/d/1PJ2r8qgA37ovutITwBbBalxlB6l-XVLL/view?usp=sharing"
         solution_link: "###"
       - type: problem_set
         title: Set 02 - Units
         description: Units
-        link: "https://drive.google.com/file/d/1r6q_qWjyLFCUdqdvwQcWk9trG4rHoF1C/view?usp=drivesdk"
+        link: "https://drive.google.com/file/d/1Rdg04CSyN-9QGe3HXGr5xVUL4HjWej14/view?usp=sharing"
         solution_link: "###"
       - type: reading
         title: Read chapter 1 of Introduction to Solid Mechanics - An Integrated Approach by Lubliner and Papadopoulos.
@@ -47,12 +47,12 @@ contents:
       - type: problem_set
         title: Set 03 - Rectlinear Motion
         description: Rectilinear Motion
-        link: "https://drive.google.com/file/d/12H8pfl29heDaTW-QhMXW7yPHwXGlMQyb/view?usp=drivesdk"
+        link: "https://drive.google.com/file/d/1XPbnw_zgBTGB9v5rM4jCqX2SgUoHAn8S/view?usp=sharing"
         solution_link: "###"
       - type: problem_set
         title: Set 04 - BoLM
         description: Vector Calculus
-        link: "https://drive.google.com/file/d/1F4QUVzsbl2mYeqmdno3JuVJw7d2dQsv8/view?usp=drivesdk"
+        link: "###"
         solution_link: "###"
       - type: exercise_video
         title: Problem 03-004
@@ -67,7 +67,7 @@ contents:
         solution_link: "###"
       - type: homework
         title: HW 01 - Projectile with drag
-        link: "https://drive.google.com/file/d/1Yn84NqvpxOFfLHk5-UrZjdwFv6fIQ11F/view?usp=drivesdk"
+        link: "###"
         solution_link: "###"
         due_date: 2025-06-26
 ---
