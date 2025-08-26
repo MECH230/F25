@@ -28,8 +28,8 @@ contents:
       - type: quiz
         title: Quiz 1
         description: Quiz 1
-        link: "###"
-        solution_link: "###"
+        link: "https://drive.google.com/file/d/1mILKgbMw_mKmTwt6lRd5mXQ2lkol-UCc/view?usp=drive_link"
+        solution_link: "https://drive.google.com/file/d/1mGgBrBhbFaQ8NhaxvTEqCIrh3tnNz6Dg/view?usp=drive_link"
 
   - date: 2025-08-26
     items:
