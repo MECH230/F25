@@ -52,7 +52,21 @@ contents:
       - type: problem_set
         title: Set 04 - BoLM
         description: Vector Calculus
-        link: "###"
+        link: "\begin{tikzpicture}[x=1cm, y=1cm]
+
+% Set up the grid
+\draw[help lines, opacity=0.6] (0, 0) grid (6, 6);
+
+% Draw the dashed trajectory
+\draw[dashed, very thick, black, ->, >=stealth] (1, 4.5) .. controls (3, 6) and (5, 5.5) .. (5, 1);
+\node[circle, fill=black, inner sep=1pt, draw] at (1, 4.5) {};
+\node[circle, fill=black, inner sep=1pt, draw] at (5, 1) {};
+
+% Add the text
+\node[below, right, xshift=2mm, yshift=-3mm, font=\Large] at (1.5, 2.5) {No more};
+\node[below, right, xshift=2mm, yshift=-3mm, font=\Large] at (1.5, 2.0) {$V_x$, only $V_y$};
+
+\end{tikzpicture}"
         solution_link: "###"
       - type: exercise_video
         title: Problem 03-004
