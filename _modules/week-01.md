@@ -71,5 +71,5 @@ contents:
         title: HW 01 - Projectile with drag
         link: "https://drive.google.com/file/d/1ro2h9ureLvUrkh0DIQuod4SMf-j1Uxmh/view?usp=sharing"
         solution_link: "###"
-        due_date: 2025-06-26
+        due_date: 2025-09-05
 ---
