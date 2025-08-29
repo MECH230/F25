@@ -49,27 +49,5 @@ contents:
         description: Rectilinear Motion
         link: "https://drive.google.com/file/d/1XPbnw_zgBTGB9v5rM4jCqX2SgUoHAn8S/view?usp=sharing"
         solution_link: "###"
-      - type: problem_set
-        title: Set 04 - BoLM
-        description: Vector Calculus
-        link: "\begin{tikzpicture}[x=1cm, y=1cm]
 
-\end{tikzpicture}"
-        solution_link: "###"
-      - type: exercise_video
-        title: Problem 03-004
-        link: "https://youtu.be/LAl3ZUiUpus"
-      - type: lecture_video
-        title: Solving differential equations numerically in Python
-        link: "https://youtu.be/RMkMK32vqyM?si=3FpVpoOILf77oe3J"
-      - type: quiz
-        title: Quiz 2
-        description: Quiz 2
-        link: "###"
-        solution_link: "###"
-      - type: homework
-        title: HW 01 - Projectile with drag
-        link: "https://drive.google.com/file/d/1ro2h9ureLvUrkh0DIQuod4SMf-j1Uxmh/view?usp=sharing"
-        solution_link: "###"
-        due_date: 2025-09-05
 ---

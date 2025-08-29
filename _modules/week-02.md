@@ -1,11 +1,29 @@
-<!-- ---
+---
 title: Week 02
 contents:
   - date: 2025-09-02
     items:
       - type: lecture
         topics:
+          - BoLM
+          - Four steps to solve a problem
           - Polar coordinates
+      - type: problem_set
+        title: Set 04 - BoLM
+        description: Vector Calculus
+        link: "###"
+        solution_link: "###"
+      - type: exercise_video
+        title: Problem 03-004
+        link: "https://youtu.be/LAl3ZUiUpus"
+      - type: lecture_video
+        title: Solving differential equations numerically in Python
+        link: "https://youtu.be/RMkMK32vqyM?si=3FpVpoOILf77oe3J"
+      - type: homework
+        title: HW 01 - Projectile with drag
+        link: "https://drive.google.com/file/d/1ro2h9ureLvUrkh0DIQuod4SMf-j1Uxmh/view?usp=sharing"
+        solution_link: "###"
+        due_date: 2025-09-10
       - type: problem_set
         title: Set 05 - Cylindrical Polar Coordinates
         description: Cylindrical Polar Coordinates
@@ -47,6 +65,6 @@ contents:
         link: "https://youtu.be/pj7kitk0VcI?si=d-8aW02MytXgkhBs"
       - type: homework
         title: HW 02 - Spring pendulum
-        link: "https://drive.google.com/file/d/15mGYHKu7pKa7WgmcNkmyaDrAocBD7iqm/view?usp=share_link"
-        due_date: 2025-06-26
---- -->
+        link: "###"
+        due_date: 2025-09-12
+---
