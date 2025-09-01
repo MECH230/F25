@@ -36,7 +36,7 @@ contents:
         link: "https://drive.google.com/file/d/1lrdG5aq0CPB20apmdMRpqcBzMDbk13CW/view?usp=share_link"
         solution_link: "https://drive.google.com/file/d/1BaiVX8CzEBAW22vnRDqw9VFTKdG0D_8y/view?usp=sharing"
 
-  - date: 2025-06-25
+  - date: 2025-09-09
     items:
       - type: exercise
         topics:
@@ -45,7 +45,7 @@ contents:
         title: Extra problems
         link: "https://drive.google.com/file/d/1cqCmfA4vL1MBHZiMzwvJRSov3JMWXm2w/view?usp=sharing"
 
-  - date: 2025-06-26
+  - date: 2025-09-11
     items:
       - type: lecture
         topics:
