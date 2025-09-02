@@ -5,6 +5,7 @@ contents:
     items:
       - type: lecture
         topics:
+          - Serret-Frenet basis, cont.
           - Spring force
       - type: problem_set
         title: Set 09 - Linear Springs
@@ -19,6 +20,10 @@ contents:
       - type: exercise_video
         title: Problem 08-004
         link: "https://youtu.be/YE9N2f2qTqg"
+      - type: homework
+        title: HW 03 - Particles on helix
+        link: "https://drive.google.com/file/d/1AvefEuP7eYljS4oICjGSQNzPmrZSSOdd/view?usp=share_link"
+        due_date: 2025-07-03
 
   - date: 2025-07-02
     items:
