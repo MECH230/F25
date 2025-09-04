@@ -12,7 +12,7 @@ contents:
         title: Set 01 - Vector Calculus
         description: Vector Calculus
         link: "https://drive.google.com/file/d/1PJ2r8qgA37ovutITwBbBalxlB6l-XVLL/view?usp=sharing"
-        solution_link: "###"
+        solution_link: "https://drive.google.com/file/d/12EppCVX208JQsDAhpJ5oOjpvJHObxFgp/view?usp=sharing"
       - type: problem_set
         title: Set 02 - Units
         description: Units
