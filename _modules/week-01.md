@@ -17,7 +17,7 @@ contents:
         title: Set 02 - Units
         description: Units
         link: "https://drive.google.com/file/d/1Rdg04CSyN-9QGe3HXGr5xVUL4HjWej14/view?usp=sharing"
-        solution_link: "###"
+        solution_link: "https://drive.google.com/file/d/1v5JJeS4PcEXBEIEGFws4aB8cPwEReHaY/view?usp=sharing"
       - type: reading
         title: Read chapter 1 of Introduction to Solid Mechanics - An Integrated Approach by Lubliner and Papadopoulos.
         description: reading
