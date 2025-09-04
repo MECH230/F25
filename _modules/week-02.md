@@ -12,7 +12,7 @@ contents:
         title: Set 04 - BoLM
         description: Vector Calculus
         link: "https://drive.google.com/file/d/1GwNZjJtb75NrzKMSyGkRZtp9y90UXTJ_/view?usp=drive_link"
-        solution_link: "###"
+        solution_link: "https://drive.google.com/file/d/1jWBMzEqE70Y4I6gh72lzw5r9I9Bw8hQD/view?usp=sharing"
       - type: exercise_video
         title: Problem 03-004
         link: "https://youtu.be/LAl3ZUiUpus"
