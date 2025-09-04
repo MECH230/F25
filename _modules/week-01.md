@@ -48,6 +48,6 @@ contents:
         title: Set 03 - Rectlinear Motion
         description: Rectilinear Motion
         link: "https://drive.google.com/file/d/1XPbnw_zgBTGB9v5rM4jCqX2SgUoHAn8S/view?usp=sharing"
-        solution_link: "###"
+        solution_link: "https://drive.google.com/file/d/1lto_0zX1CH2WxVMZpRxUu_2yRXSCvWlG/view?usp=sharing"
 
 ---
