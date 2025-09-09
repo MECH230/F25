@@ -23,10 +23,10 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Ziade Office Hours
-        start: 10:00 AM
-        end: 11:30 AM
-        location: TBD
+      - name: Honein Office Hours
+        start: 9:00 AM
+        end: 12:00 PM
+        location: Bechtel 532
   - name: Tuesday
     events:
       - name: Lecture
@@ -44,8 +44,8 @@ schedule:
   - name: Wednesday
     events:
       - name: Honein Office Hours
-        start: 1:00 PM
-        end: 3:00 PM
+        start: 12:30 PM
+        end: 2:00 PM
         location: Bechtel 532
   - name: Thursday
     events:
@@ -55,12 +55,9 @@ schedule:
         location: FS1 305
       - name: Honein Office Hours
         start: 3:30 PM
-        end: 5:00 PM
+        end: 4:30 PM
         location: Bechtel 532
   - name: Friday
     events:
-      - name: Ziade Office Hours
-        start: 10:00 AM
-        end: 11:30 AM
-        location: TBD
+      
 ---
