@@ -17,7 +17,7 @@ contents:
         link: "https://youtu.be/pj7kitk0VcI?si=d-8aW02MytXgkhBs"
       - type: homework
         title: HW 02 - Spring pendulum
-        link: "###"
+        link: "https://drive.google.com/file/d/1MJQQSiSne8w94qW0Ld4KdYUAonn7RFj5/view?usp=sharing"
         due_date: 2025-09-16
 
   - date: 2025-09-09
