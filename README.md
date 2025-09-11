@@ -8,7 +8,7 @@ seo:
   name: MECH230 Dynamics
 ---
 
-# Lecture Nots
+# Lecture Notes
 You can access the lecture notes [here](https://drive.google.com/file/d/1OqUyqj9TQVR_x3-o1vOThzzxYG_eBrRD/view?usp=sharing).
 
 # Exam Schedule
