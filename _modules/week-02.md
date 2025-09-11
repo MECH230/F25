@@ -20,7 +20,7 @@ contents:
         title: Set 05 - Cylindrical Polar Coordinates
         description: Cylindrical Polar Coordinates
         link: "https://drive.google.com/file/d/1gchIpD7picaBbfA8YwRixHLdtHtHeM0m/view?usp=drivesdk"
-        solution_link: "###"
+        solution_link: "https://drive.google.com/file/d/1F1Z_hzFq4om4fXXWPKDvSE7TI0JsHxvR/view?usp=sharing"
       - type: exercise_video
         title: Problem 02-021
         link: "https://youtu.be/wbUBexp8xfc"
