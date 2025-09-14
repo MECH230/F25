@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Week 04
 contents:
   - date: 2025-07-01
@@ -6,7 +6,13 @@ contents:
       - type: lecture
         topics:
           - Serret-Frenet basis, cont.
+          - Constrained motion
           - Spring force
+      - type: problem_set
+        title: Set 06 - Constrained Motion
+        description: Constrained Motion
+        link: "https://drive.google.com/file/d/1sKtW-Kc42Lx-TR4QDQ5RgpxcQhGDDRXz/view?usp=drivesdk"
+        solution_link: "###"
       - type: problem_set
         title: Set 09 - Linear Springs
         link: "https://drive.google.com/file/d/1zcm9KN42Fokud1WwjCEeEt4B-KT5stpI/view?usp=drivesdk"
@@ -17,9 +23,6 @@ contents:
       - type: lecture_video
         title: Spring force examples
         link: "https://www.youtube.com/watch?v=YiOZregJx9w"
-      - type: exercise_video
-        title: Problem 08-004
-        link: "https://youtu.be/YE9N2f2qTqg"
       - type: homework
         title: HW 03 - Particles on helix
         link: "https://drive.google.com/file/d/1AvefEuP7eYljS4oICjGSQNzPmrZSSOdd/view?usp=share_link"
@@ -30,6 +33,11 @@ contents:
       - type: exercise
         topics:
           - tbd
+      - type: problem_set
+        title: Set 08 - Relative motion & Corotational Bases
+        description: Relative motion between translating rigid bodies
+        link: "https://drive.google.com/file/d/15SJS064FwSMpkfMLjZYIYxMUW1tPyOWy/view?usp=drivesdk"
+        solution_link: "###"
       - type: problem_set
         title: Extra problems
         link: "https://drive.google.com/file/d/1WaipiMmWddWer_DrAZcLhzDUnNOMbbq6/view?usp=sharing"
@@ -46,8 +54,5 @@ contents:
       - type: problem_set
         title: Set 10 - Friction
         link: "https://drive.google.com/file/d/1BsacnK5BUjR_4CQXt7pW7BM2vrtYed5p/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1Csp0G7hLXIq17-zpl7jypNGhiKP4vSXt/view?usp=sharing"
-      - type: exercise_video
-        title: Problem 03-071
-        link: "https://youtu.be/RDFfE0tFTnk"
----       -->
+        solution_link: "###"
+---      
