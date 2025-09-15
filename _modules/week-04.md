@@ -25,8 +25,8 @@ contents:
         link: "https://www.youtube.com/watch?v=YiOZregJx9w"
       - type: homework
         title: HW 03 - Particles on helix
-        link: "https://drive.google.com/file/d/1AvefEuP7eYljS4oICjGSQNzPmrZSSOdd/view?usp=share_link"
-        due_date: 2025-07-03
+        link: "https://drive.google.com/file/d/1rQ50eFiC8wnqj7DV-wCSg04OgXKUKMVB/view?usp=share_link"
+        due_date: 2025-09-23
 
   - date: 2025-07-02
     items:
