@@ -11,12 +11,12 @@ contents:
       - type: problem_set
         title: Set 06 - Constrained Motion
         description: Constrained Motion
-        link: "https://drive.google.com/file/d/1sKtW-Kc42Lx-TR4QDQ5RgpxcQhGDDRXz/view?usp=drivesdk"
+        link: "https://drive.google.com/file/d/1sKtW-Kc42Lx-TR4QDQ5RgpxcQhGDDRXz/view?usp=sharing"
         solution_link: "###"
       - type: problem_set
         title: Set 09 - Linear Springs
-        link: "https://drive.google.com/file/d/1zcm9KN42Fokud1WwjCEeEt4B-KT5stpI/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1CJ9rMCZ5_6RHZvypBIinyAXn2I0TJSfO/view?usp=sharing"
+        link: "https://drive.google.com/file/d/1PPmsn8k0RBkiC5EZDqbrWm2oazFJ58K-/view?usp=sharing"
+        solution_link: "###"
       - type: lecture_video
         title: Explaining spring force
         link: "https://www.youtube.com/watch?v=WtTDHW2JUVY"
@@ -36,7 +36,7 @@ contents:
       - type: problem_set
         title: Set 08 - Relative motion & Corotational Bases
         description: Relative motion between translating rigid bodies
-        link: "https://drive.google.com/file/d/15SJS064FwSMpkfMLjZYIYxMUW1tPyOWy/view?usp=drivesdk"
+        link: "https://drive.google.com/file/d/15SJS064FwSMpkfMLjZYIYxMUW1tPyOWy/view?usp=share_link"
         solution_link: "###"
       - type: problem_set
         title: Extra problems
@@ -53,6 +53,6 @@ contents:
         link: "https://www.youtube.com/watch?v=_fvCFtpL3c8"
       - type: problem_set
         title: Set 10 - Friction
-        link: "https://drive.google.com/file/d/1BsacnK5BUjR_4CQXt7pW7BM2vrtYed5p/view?usp=drivesdk"
+        link: "https://drive.google.com/file/d/1nKPBxZllszzjLq9zS4fBAja8wvQ8A845/view?usp=share_link"
         solution_link: "###"
 ---      

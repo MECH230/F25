@@ -11,12 +11,12 @@ contents:
       - type: problem_set
         title: Set 04 - BoLM
         description: Vector Calculus
-        link: "https://drive.google.com/file/d/1GwNZjJtb75NrzKMSyGkRZtp9y90UXTJ_/view?usp=drive_link"
+        link: "https://drive.google.com/file/d/1GwNZjJtb75NrzKMSyGkRZtp9y90UXTJ_/view?usp=sharing"
         solution_link: "https://drive.google.com/file/d/1jWBMzEqE70Y4I6gh72lzw5r9I9Bw8hQD/view?usp=sharing"
       - type: problem_set
         title: Set 05 - Cylindrical Polar Coordinates
         description: Cylindrical Polar Coordinates
-        link: "https://drive.google.com/file/d/1gchIpD7picaBbfA8YwRixHLdtHtHeM0m/view?usp=drivesdk"
+        link: "https://drive.google.com/file/d/160hDsfkJD1FD_5FOFpsz_gmaiQJLCC1v/view?usp=sharing"
         solution_link: "https://drive.google.com/file/d/1F1Z_hzFq4om4fXXWPKDvSE7TI0JsHxvR/view?usp=sharing"
       - type: lecture_video
         title: Solving differential equations numerically in Python

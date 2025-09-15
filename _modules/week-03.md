@@ -33,7 +33,7 @@ contents:
       - type: problem_set
         title: Set 07 - Serret Frenet Basis
         description: The Serret-Frenet Triad (Kinematics and kinetics)
-        link: "https://drive.google.com/file/d/1iOeubRqbTVT4-f2UfLvGpaTstqDTWOOK/view?usp=drivesdk"
+        link: "https://drive.google.com/file/d/1iOeubRqbTVT4-f2UfLvGpaTstqDTWOOK/view?usp=sharing"
         solution_link: "###" 
       - type: lecture_video
         title: Particle on a curve vs. particle on a surface
