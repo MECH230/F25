@@ -33,10 +33,6 @@ schedule:
         start: 9:30 AM
         end: 11:00 AM
         location: FS1 305
-      - name: Honein Office Hours
-        start: 4:45 PM
-        end: 6:00 PM
-        location: Bechtel 532
       - name: Exercise session
         start: 3:30 PM
         end: 4:45 PM
