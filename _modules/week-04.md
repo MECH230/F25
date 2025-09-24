@@ -40,7 +40,7 @@ contents:
       - type: problem_set
         title: Set 09 - Linear Springs
         link: "https://drive.google.com/file/d/1PPmsn8k0RBkiC5EZDqbrWm2oazFJ58K-/view?usp=sharing"
-        solution_link: "###"
+        solution_link: "https://drive.google.com/file/d/1U_ynxS96_FId27XrBW52G4h2rLzWYhzb/view?usp=drive_link"
       - type: lecture_video
         title: Explaining spring force
         link: "https://www.youtube.com/watch?v=WtTDHW2JUVY"
