@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Week 06
 contents:
   - date: 2025-09-30
@@ -23,20 +23,21 @@ contents:
       - type: exercise_video
         title: 4. (15 min) 03/161
         link: "https://youtu.be/Q-F7ew3jFuQ"
+      - type: homework
+        title: HW 04 - Energy plots for all previous homework
+        link: "###"
+        due_date: 2025-07-25
 
   - date: 2025-09-30
     items:
       - type: exercise
         topics:
-          - Midterm II preparation - Energy, collisions, conservation of angular and linear momentum, rigid body kinematics
+          - TBD
       - type: problem_set
         title: Discussion 06 Notes and Extra Problems for Midterm II
         description: Energy, collisions, cons. of angular and linear mtm., RBK
         link: "https://drive.google.com/file/d/1jThS9W5IblEJ7ZUv_HYWMLDy4OIsZvGd/view?usp=sharing"
         solution_link: "https://drive.google.com/file/d/1HPrYf9rktofdmevKTM6vNjDUhawR9Gww/view?usp=sharing"
-      - type: lecture_video
-        title: Discussion 06 Recording Canvas Link
-        link: "https://bcourses.berkeley.edu/courses/1545207/external_tools/90481"
   
   - date: 2025-10-02
     items:
@@ -61,10 +62,10 @@ contents:
       - type: lecture_video
         title: 10. (10 min) Conservations - linear momentum vs. angular momentum vs. energy
         link: "https://www.youtube.com/watch?v=MEwpRoLB7KM"
-      - type: homework
-        title: HW 05 - orbital mechanics
-        link: "https://drive.google.com/file/d/1ChZTfDnsX4_58ugmQE_gJdRsG-Rmqqeb/view?usp=share_link"
-        due_date: 2025-10-09
+      # - type: homework
+      #   title: HW 05 - orbital mechanics
+      #   link: "https://drive.google.com/file/d/1ChZTfDnsX4_58ugmQE_gJdRsG-Rmqqeb/view?usp=share_link"
+      #   due_date: 2025-10-09
 
       
---- -->
+---
