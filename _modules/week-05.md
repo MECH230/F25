@@ -15,16 +15,14 @@ contents:
         solution_link: "###"
       - type: homework
         title: HW 04 - Stick Slip
-        link: "###"
+        link: "https://drive.google.com/file/d/1KNr2Cn3iyFWrU-RGfgQAU23Et5GENMxh/view?usp=share_link"
         due_date: 2025-10-02
 
   - date: 2025-09-23
     items:
-      - type: problem_set
-        title: Extra problems Discussion 5 - Work, energy, momentum, collisions
-        description: Lots of short answer and MC problems, and a longer one 
-        link: "https://drive.google.com/file/d/1nzFQce-ut8R0YhhwMuBcdBfPs5tHsegx/view?usp=sharing"
-        solution_link: "https://drive.google.com/file/d/1nMn9DPh2e_mlsWepsV4TeXxh5RaOtqol/view?usp=sharing"
+      - type: exercise
+        topics:
+          - tbd
 
   - date: 2025-09-25
     items:
@@ -35,6 +33,7 @@ contents:
           - Conservation of energy
           - Gravitation force model
             - type: problem_set
+      - type: problem_set
         title: Set 11 - Power, Work and Energy
         description: Power, Work and Energy
         link: "https://drive.google.com/file/d/1WB9MIlmOi6AQ2R5Perhf5mRFoWb9DuHB/view?usp=drivesdk"
@@ -49,8 +48,5 @@ contents:
       - type: lecture_video
         title: Work-Energy theorem on simple pendulum
         link: "https://www.youtube.com/watch?v=bjpTKehJV7s"
-      # - type: homework
-      #   title: HW 04 - Energy plots for all previous homework
-      #   link: "###"
-      #   due_date: 2025-07-25
+
 ---

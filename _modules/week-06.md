@@ -23,6 +23,10 @@ contents:
       - type: exercise_video
         title: 4. (15 min) 03/161
         link: "https://youtu.be/Q-F7ew3jFuQ"
+      - type: homework
+        title: HW 04 - Energy plots for all previous homework
+        link: "###"
+        due_date: 2025-07-25
 
   - date: 2025-09-30
     items:
