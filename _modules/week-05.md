@@ -32,7 +32,6 @@ contents:
           - Deriving the work-energy theorem
           - Conservation of energy
           - Gravitation force model
-            - type: problem_set
       - type: problem_set
         title: Set 11 - Power, Work and Energy
         description: Power, Work and Energy
