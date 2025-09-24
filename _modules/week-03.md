@@ -26,11 +26,6 @@ contents:
         topics:
           - Relative motion between translating rigid bodies
       - type: problem_set
-        title: Set 08 - Relative motion & Corotational Bases
-        description: Relative motion between translating rigid bodies
-        link: "https://drive.google.com/file/d/15SJS064FwSMpkfMLjZYIYxMUW1tPyOWy/view?usp=drivesdk"
-        solution_link: "###"
-      - type: problem_set
         title: Extra problems
         link: "https://drive.google.com/file/d/1cqCmfA4vL1MBHZiMzwvJRSov3JMWXm2w/view?usp=sharing"
 
@@ -52,9 +47,6 @@ contents:
       - type: lecture_video
         title: A derivation of the Serret-Frenet formulae
         link: "https://youtu.be/OB13c0WlUSg"
-      - type: exercise_video
-        title: Problem 02-151
-        link: "https://youtu.be/Z8Un0esREyw"
       - type: demo
         title: Serret-Frenet basis on bobsled
         link: "https://youtu.be/0ACqRREH180"
