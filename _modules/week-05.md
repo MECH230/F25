@@ -28,24 +28,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - Definitions of power, work and kinetic energy
-          - Deriving the work-energy theorem
-          - Conservation of energy
-          - Gravitation force model
-      - type: problem_set
-        title: Set 11 - Power, Work and Energy
-        description: Power, Work and Energy
-        link: "https://drive.google.com/file/d/1WB9MIlmOi6AQ2R5Perhf5mRFoWb9DuHB/view?usp=drivesdk"
-        solution_link: "###"
-      - type: lecture_video
-        title: Gravitation force model
-        link: "https://www.youtube.com/watch?v=nHnDuCWtacY"
-      - type: reading
-        title: Conservative forces and their potential
-        description: reading
-        link: "https://drive.google.com/file/d/1ZkdqsPzFe2r-aTFFd1BEd3b8L2MqyxHh/view?usp=share_link"
-      - type: lecture_video
-        title: Work-Energy theorem on simple pendulum
-        link: "https://www.youtube.com/watch?v=bjpTKehJV7s"
+          - Friction, cont.
+
 
 ---
