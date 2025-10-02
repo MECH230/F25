@@ -29,6 +29,7 @@ contents:
       - type: lecture
         topics:
           - Friction, cont.
+          - Exam 1 prep.
 
 
 ---
