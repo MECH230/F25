@@ -22,8 +22,8 @@ contents:
         link: "https://www.youtube.com/watch?v=bjpTKehJV7s"
       - type: homework
         title: HW 05 - Energy plots for all previous homework
-        link: "###"
-        due_date: 2025-07-25
+        link: "https://drive.google.com/file/d/12b9dhoczIXgYKwHvmibTZottEld4e_CQ/view?usp=sharing"
+        due_date: 2025-10-09
 
   - date: 2025-09-30
     items:
