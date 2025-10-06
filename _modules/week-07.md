@@ -1,32 +1,37 @@
-<!-- ---
+---
 title: Week 07
 contents:
   - date: 2025-10-07
     items:
       - type: lecture
         topics:
+          - Linear momentum and angular momentum problems
           - Collisions
       - type: problem_set
         title: Set 13 - Collisions
         description: Collisions
         link: "https://drive.google.com/file/d/1qqVB9qko7StO9gHfB7afcszugdpTWWUm/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1D4BQbs4BJH1UKCBvukj_mCSsntnjUEGU/view?usp=sharing"
+        solution_link: "###"
       - type: lecture_video
-        title: 12. (25 min) Collisions
+        title: Collisions
         link: "https://youtu.be/0GcIPJgpwN4"
       - type: lecture_video
-        title: 13. (6 min) Two particles impacting in the plane
+        title: Two particles impacting in the plane
         link: "https://youtu.be/4zI-bUmKLKI"
 
   - date: 2025-10-07
     items:
       - type: exercise
         topics:
-          - tbd
+          - Examples
+          - Quiz
       - type: problem_set
-        title: Discussion 7 Problems + Useful Reference Sheet on Rigid Body Dynamics
-        link: "https://drive.google.com/file/d/1r4mcrdex59m3rWJWjxhK85bionFg1IKr/view?usp=sharing"
-        solution_link: "https://drive.google.com/file/d/111vE5wwDvnPegxHbWRJUp16KfyCxrH3G/view?usp=sharing"
+        title: Extra problem
+        description: Extra problem
+        link: "https://drive.google.com/file/d/1qqVB9qko7StO9gHfB7afcszugdpTWWUm/view?usp=drivesdk"
+
+
+https://thh00.github.io/08-2024-dynamics/HW/HW05.pdf
 
   - date: 2025-10-09
     items:
@@ -36,4 +41,4 @@ contents:
       
 ---
       
-       -->
+      
