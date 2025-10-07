@@ -10,7 +10,7 @@ contents:
       - type: problem_set
         title: Set 13 - Collisions
         description: Collisions
-        link: "https://drive.google.com/file/d/1qqVB9qko7StO9gHfB7afcszugdpTWWUm/view?usp=drivesdk"
+        link: "https://drive.google.com/file/d/1iz7B5_rlTtNSmovcdNfZHm6KPo1URmEL/view?usp=share_link"
         solution_link: "###"
       - type: lecture_video
         title: Collisions
