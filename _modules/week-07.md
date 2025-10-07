@@ -28,10 +28,7 @@ contents:
       - type: problem_set
         title: Extra problem
         description: Extra problem
-        link: "https://drive.google.com/file/d/1qqVB9qko7StO9gHfB7afcszugdpTWWUm/view?usp=drivesdk"
-
-
-https://thh00.github.io/08-2024-dynamics/HW/HW05.pdf
+        link: "https://thh00.github.io/08-2024-dynamics/HW/HW05.pdf"
 
   - date: 2025-10-09
     items:
