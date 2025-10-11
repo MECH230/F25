@@ -11,6 +11,10 @@ contents:
         description: System of particles
         link: "https://drive.google.com/file/d/1WXouRu1Y2499q5CVKzFgzgzJR_euEFLr/view?usp=sharing"
         solution_link: "###"
+      - type: homework
+        title: HW 06 - orbital mechanics
+        link: "https://drive.google.com/file/d/1GREl38Tf3HoywHYi5SH6JnO0WXucaH6y/view?usp=sharing"
+        due_date: 2025-10-21
 
   - date: 2025-10-14
     items:

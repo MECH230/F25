@@ -63,10 +63,6 @@ contents:
         description: Momenta and Impulses for a Particle
         link: "https://drive.google.com/file/d/1bYhxkEya7Fe_XuhjY_wyudwdLz2p9TwE/view?usp=sharing"
         solution_link: "###"
-      # - type: homework
-      #   title: HW 06 - orbital mechanics
-      #   link: "https://drive.google.com/file/d/1ChZTfDnsX4_58ugmQE_gJdRsG-Rmqqeb/view?usp=share_link"
-      #   due_date: 2025-10-09
 
       
 ---
