@@ -39,7 +39,7 @@ contents:
         description: Impulse Momentum for RB
         link: "https://drive.google.com/file/d/116_8ptZ6PmlEzuNu7fXu4ORFZznopqk4/view?usp=drivesdk"
       - type: homework
-        title: HW 08 - Ice skater angular momentum conservations
+        title: HW 09 - Ice skater angular momentum conservations
         link: "https://drive.google.com/file/d/1hDp2QectLgGx4C8dnXimnmZgZOdFH771/view?usp=sharing"
         due_date: 2025-11-20
 --- -->

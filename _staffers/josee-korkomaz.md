@@ -3,5 +3,5 @@ name: Josee Korkomaz
 role: Teaching Assistant
 photo: josee-korkomaz.jpg
 meta:
-  Office Hours: Tuesdays and Thursdays at 2-3pm in Bechtel 204.
+  Office Hours: Tuesdays and Thursdays at 2-3pm in Bechtel 208.
 ---

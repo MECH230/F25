@@ -28,6 +28,7 @@ contents:
     items:
       - type: lecture
         topics:
+<<<<<<< HEAD
           - Definitions of power, work and kinetic energy
           - Deriving the work-energy theorem
           - Conservation of energy
@@ -47,5 +48,10 @@ contents:
       - type: lecture_video
         title: Work-Energy theorem on simple pendulum
         link: "https://www.youtube.com/watch?v=bjpTKehJV7s"
+=======
+          - Friction, cont.
+          - Exam 1 prep.
+
+>>>>>>> 56d6ae1c63c01c7bb41d527b001da426342af442
 
 ---
