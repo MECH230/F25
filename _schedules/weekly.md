@@ -32,7 +32,11 @@ schedule:
       - name: Lecture
         start: 9:30 AM
         end: 11:00 AM
-        location: FS1 305
+        location: Bechtel 208
+      - name: Yellow Office Hours
+        start: 2:00 PM
+        end: 3:00 PM
+        location: Yellow Room
       - name: Exercise session
         start: 3:30 PM
         end: 4:45 PM
@@ -43,16 +47,28 @@ schedule:
         start: 12:30 PM
         end: 2:00 PM
         location: Bechtel 532
+      - name: Yellow Office Hours
+        start: 3:00 PM
+        end: 5:00 PM
+        location: Yellow Room
   - name: Thursday
     events:
       - name: Lecture
         start: 9:30 AM
         end: 11:00 AM
-        location: FS1 305
+        location: Bechtel 208
+      - name: Yellow Office Hours
+        start: 2:00 PM
+        end: 3:00 PM
+        location: Yellow Room
       - name: Honein Office Hours
         start: 3:30 PM
         end: 4:30 PM
         location: Bechtel 532
+      - name: Yellow Office Hours
+        start: 3:00 PM
+        end: 5:00 PM
+        location: Yellow Room
   - name: Friday
     events:
       
