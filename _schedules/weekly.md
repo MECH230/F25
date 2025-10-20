@@ -33,7 +33,7 @@ schedule:
         start: 9:30 AM
         end: 11:00 AM
         location: Bechtel 208
-      - name: UG Office Hours
+      - name: Tutoring Hours
         start: 2:00 PM
         end: 3:00 PM
         location: Yellow Room
@@ -47,7 +47,7 @@ schedule:
         start: 12:30 PM
         end: 2:00 PM
         location: Bechtel 532
-      - name: UG Office Hours
+      - name: Tutoring Hours
         start: 3:00 PM
         end: 5:00 PM
         location: Yellow Room
@@ -57,7 +57,7 @@ schedule:
         start: 9:30 AM
         end: 11:00 AM
         location: Bechtel 208
-      - name: UG Office Hours
+      - name: Tutoring Hours
         start: 2:00 PM
         end: 5:00 PM
         location: Yellow Room
