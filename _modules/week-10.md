@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Week 10
 contents:
   - date: 2025-10-28
@@ -10,7 +10,11 @@ contents:
         title: Set 17 - Rolling and Sliding
         description: Rolling and Sliding
         link: "https://drive.google.com/file/d/1TG-p-p5oe03MGBDSplyQve9iaqZs85_e/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1Dl1Zax64CwjlrE-ACekM2AEf0ZkXbD2X/view?usp=sharing"
+        solution_link: "###"
+      - type: homework
+        title: HW 07 - Merry-go-round animation
+        link: "https://drive.google.com/file/d/1HLtZ913rdswIBKbQxLJ5I9kKjP9tprQp/view?usp=sharing"
+        due_date: 2025-11-04
 
   - date: 2025-10-28
     items:
@@ -28,7 +32,7 @@ contents:
         title: Set 18 - Moments of Inertia
         description: Moments of Inertia
         link: "https://drive.google.com/file/d/1FrStbQBfU1WJdupAxwplOqCcVOlT1MDA/view?usp=drivesdk"
-        solution_link: "https://drive.google.com/file/d/1iN0FetsAtBIxk-U-Wbx5OrG9wvbsJAxG/view?usp=sharing"
+        solution_link: "###"
       - type: lecture_video
         title: Center of mass and linear momentum of a rigid body
         link: "https://youtu.be/101EriK4HIQ"
@@ -54,13 +58,7 @@ contents:
         title: Cylinders Rolling Down Incline - Professor Walter Lewin
         link: "https://www.youtube.com/watch?v=M_YCWDXCwZM&t=152s"
       - type: reading
-        title: Notes pdf
-        link: "https://drive.google.com/file/d/1zuL3YSqawy5FtvICplTMBMHMxdpmpIBx/view?usp=sharing"
-      - type: reading
         title: Moments of inertia of common shapes
         link: "https://drive.google.com/file/d/1DxU3drUxiPzQgW9u-QsdPsVf8NP3gh6U/view?usp=sharing"
-      - type: reading
-        title: Derivation of the parallel axis theorem
-        link: "https://drive.google.com/file/d/17k7Nb27wuspZUZosNP3G7_aEwLI8b4mq/view?usp=sharing"
 
---- -->
+---
