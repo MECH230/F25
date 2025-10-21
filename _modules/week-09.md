@@ -12,8 +12,12 @@ contents:
         description: Kinematics of Rigid Bodies
         link: "https://drive.google.com/file/d/1tVQYaDXXNVWzWL8PHN44ztnQba7DaCS6/view?usp=sharing"
         solution_link: "###"
+      - type: homework
+        title: HW 08 - Crank Slider
+        link: "https://drive.google.com/file/d/1B0spZrfz-Haia2IbQ52zuccyAGR7AigN/view?usp=sharing"
+        due_date: 2025-10-
 
-  - date: 2025-10-21
+  - date: 2025-10-22
     items:
       - type: exercise
 
@@ -31,9 +35,5 @@ contents:
       - type: demo
         title: IC of crank slider
         link: "https://drive.google.com/file/d/1L8b1ugg4xQuPK5m5tOVo0bzk16HRia5a/view?usp=sharing"
-      - type: homework
-        title: HW 07 - Merry-go-round animation
-        link: "https://drive.google.com/file/d/1HLtZ913rdswIBKbQxLJ5I9kKjP9tprQp/view?usp=sharing"
-        due_date: 2025-10-30
 
 ---
