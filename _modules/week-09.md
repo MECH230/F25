@@ -11,7 +11,7 @@ contents:
         title: Set 15 - Kinematics of Rigid Bodies
         description: Kinematics of Rigid Bodies
         link: "https://drive.google.com/file/d/1tVQYaDXXNVWzWL8PHN44ztnQba7DaCS6/view?usp=sharing"
-        solution_link: "###"
+        solution_link: "https://drive.google.com/file/d/1Yqmm-4IXGSBYfINZLXnaXymGxJt3hOpk/view?usp=drive_link"
       - type: homework
         title: HW 08 - Crank Slider
         link: "https://drive.google.com/file/d/1B0spZrfz-Haia2IbQ52zuccyAGR7AigN/view?usp=sharing"
