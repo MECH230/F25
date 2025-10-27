@@ -25,8 +25,7 @@ contents:
     items:
       - type: lecture
         topics:
-        - Instantaneous Center of Rotation
-        - Relative motion of particles with respect to a rigid body
+        - Instantaneous Center of Rotation 
       - type: problem_set
         title: Set 16 - IC and Motion wrt RB
         description: IC and Motion wrt RB
