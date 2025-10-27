@@ -5,6 +5,7 @@ contents:
     items:
       - type: lecture
         topics:
+        - Relative motion of particles with respect to a rigid body
         - Rolling and Sliding
       - type: problem_set
         title: Set 17 - Rolling and Sliding
@@ -15,7 +16,13 @@ contents:
         title: HW 07 - Merry-go-round animation
         link: "https://drive.google.com/file/d/1HLtZ913rdswIBKbQxLJ5I9kKjP9tprQp/view?usp=sharing"
         due_date: 2025-11-04
-
+      - type: demo
+        title: Coriolis Effect - National Geographic
+        link: "https://www.youtube.com/watch?v=mPsLanVS1Q8"
+      - type: demo
+        title: Foucault pendulum showing that the Earth spins
+        link: "https://www.youtube.com/shorts/NR4xsJlDFwU"
+      
   - date: 2025-10-28
     items:
       - type: exercise
