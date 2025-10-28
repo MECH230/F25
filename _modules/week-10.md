@@ -15,7 +15,7 @@ contents:
       - type: homework
         title: HW 08 - Merry-go-round animation
         link: "https://drive.google.com/file/d/1HLtZ913rdswIBKbQxLJ5I9kKjP9tprQp/view?usp=sharing"
-        due_date: 2025-11-04
+        due_date: 2025-11-08
       - type: demo
         title: Coriolis Effect - National Geographic
         link: "https://www.youtube.com/watch?v=mPsLanVS1Q8"
