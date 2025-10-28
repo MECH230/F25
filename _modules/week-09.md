@@ -13,9 +13,9 @@ contents:
         link: "https://drive.google.com/file/d/1tVQYaDXXNVWzWL8PHN44ztnQba7DaCS6/view?usp=sharing"
         solution_link: "https://drive.google.com/file/d/1Yqmm-4IXGSBYfINZLXnaXymGxJt3hOpk/view?usp=drive_link"
       - type: homework
-        title: HW 08 - Crank Slider
+        title: HW 07 - Crank Slider
         link: "https://drive.google.com/file/d/1B0spZrfz-Haia2IbQ52zuccyAGR7AigN/view?usp=sharing"
-        due_date: 2025-10-
+        due_date: 2025-10-30
 
   - date: 2025-10-22
     items:

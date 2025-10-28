@@ -13,7 +13,7 @@ contents:
         link: "https://drive.google.com/file/d/1TG-p-p5oe03MGBDSplyQve9iaqZs85_e/view?usp=drivesdk"
         solution_link: "###"
       - type: homework
-        title: HW 07 - Merry-go-round animation
+        title: HW 08 - Merry-go-round animation
         link: "https://drive.google.com/file/d/1HLtZ913rdswIBKbQxLJ5I9kKjP9tprQp/view?usp=sharing"
         due_date: 2025-11-04
       - type: demo
