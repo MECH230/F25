@@ -10,7 +10,7 @@ contents:
         title: Set 17 - Rolling and Sliding
         description: Rolling and Sliding
         link: "https://drive.google.com/file/d/1TG-p-p5oe03MGBDSplyQve9iaqZs85_e/view?usp=drivesdk"
-        solution_link: "###"
+        solution_link: "https://drive.google.com/file/d/1qGzF-bOkkLf5WdIhAUwc28oDLNgqwpCF/view?usp=sharing"
       - type: homework
         title: HW 07 - Merry-go-round animation
         link: "https://drive.google.com/file/d/1HLtZ913rdswIBKbQxLJ5I9kKjP9tprQp/view?usp=sharing"
