@@ -30,7 +30,7 @@ contents:
         title: Set 16 - IC and Motion wrt RB
         description: IC and Motion wrt RB
         link: "https://drive.google.com/file/d/1mFygC4jv4abp_9Xm228kkIX7j30wMofh/view?usp=sharing"
-        solution_link: "###"
+        solution_link: "https://drive.google.com/file/d/1l69w8XmHmwzlnkU8PUciBqRWN8pcGqnj/view?usp=sharing"
       - type: demo
         title: IC of crank slider
         link: "https://drive.google.com/file/d/1L8b1ugg4xQuPK5m5tOVo0bzk16HRia5a/view?usp=sharing"
