@@ -14,8 +14,8 @@ contents:
         title: Problem 06-051
         link: "https://youtu.be/Q7PV2pxBuwc"
       - type: homework
-        title: HW 08 - Plate fixed point rotation
-        link: "???"
+        title: HW 09 - Plate fixed point rotation
+        link: "https://drive.google.com/file/d/1bCrNJmFLaBIQcb5Wi9lvBTf4LmcN9w6a/view?usp=sharing"
         due_date: 2025-11-18
 
   - date: 2025-11-11

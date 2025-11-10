@@ -18,7 +18,7 @@ contents:
         link: "https://drive.google.com/file/d/1hEpgojVoo9hp0toHVOX6lFYy93x9XHwp/view?usp=sharing"
       - type: homework
         title: HW 10 - Ice skater angular momentum conservations
-        link: "??"
+        link: "https://drive.google.com/file/d/1HcCirFbRn_U-d5hlMa4sHl1O9a7oKrVK/view?usp=sharing"
         due_date: 2025-11-25
 
   - date: 2025-11-18
