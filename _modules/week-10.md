@@ -14,7 +14,7 @@ contents:
         solution_link: "https://drive.google.com/file/d/1qGzF-bOkkLf5WdIhAUwc28oDLNgqwpCF/view?usp=sharing"
       - type: homework
         title: HW 08 - Merry-go-round animation
-        link: "https://drive.google.com/file/d/1HLtZ913rdswIBKbQxLJ5I9kKjP9tprQp/view?usp=sharing"
+        link: "https://drive.google.com/file/d/1Woy6UhemJ3lC3GXt6Dq7SMqGuGRPZW7U/view?usp=sharing"
         due_date: 2025-11-08
       - type: demo
         title: Coriolis Effect - National Geographic
