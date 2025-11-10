@@ -13,10 +13,10 @@ contents:
       - type: exercise_video
         title: Problem 06-051
         link: "https://youtu.be/Q7PV2pxBuwc"
-      # - type: homework
-      #   title: HW 08 - Plate fixed point rotation
-      #   link: "https://drive.google.com/file/d/1lduW4aX0pCclXLwqmDBVHaKtyY8OjUGy/view?usp=share_link"
-      #   due_date: 2025-11-13
+      - type: homework
+        title: HW 08 - Plate fixed point rotation
+        link: "???"
+        due_date: 2025-11-18
 
   - date: 2025-11-11
     items:
@@ -27,7 +27,7 @@ contents:
   - date: 2025-11-13
     items:
       - type: lecture
-          topics:
+        topics:
           - General Plane Motion
         - type: problem_set
           title: Set 21 - General Plane Motion
