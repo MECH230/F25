@@ -5,7 +5,7 @@ contents:
     items:
       - type: lecture
         topics:
-          - Fixed point rotation
+        - Fixed point rotation
       - type: problem_set
         title: Set 20 - Fixed Point Rotation
         description: Fixed Point Rotation
@@ -22,16 +22,16 @@ contents:
     items:
       - type: exercise
         topics:
-          - TBD
+        - TBD
 
   - date: 2025-11-13
     items:
       - type: lecture
         topics:
-          - General Plane Motion
-        - type: problem_set
-          title: Set 21 - General Plane Motion
-          description: General Plane Motion
-          link: "https://drive.google.com/file/d/1DYb5kZDtFHb2zkt1j6oQb8WzjKeX70BS/view?usp=sharing"
+        - General Plane Motion
+      - type: problem_set
+        title: Set 21 - General Plane Motion
+        description: General Plane Motion
+        link: "https://drive.google.com/file/d/1DYb5kZDtFHb2zkt1j6oQb8WzjKeX70BS/view?usp=sharing"
       
 ---
