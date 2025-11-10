@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Week 14
 contents:
   - date: 2025-11-25
@@ -18,4 +18,4 @@ contents:
       - type: lecture
         topics:
           - Review
---- -->
+---
