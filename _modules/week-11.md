@@ -56,5 +56,6 @@ contents:
         title: Set 19 - RB Translation
         description: RB Translation
         link: "https://drive.google.com/file/d/1F-MeHorwTKtKI9ve2Uu4VWNxyBTFdleE/view?usp=drivesdk"
+        solution link: "https://drive.google.com/file/d/1OBK7uGRjKI8ByCo2rqQV6SzH9XLIbPIp/view?usp=sharing"
 
 ---
