@@ -10,7 +10,7 @@ contents:
         title: Set 20 - Fixed Point Rotation
         description: Fixed Point Rotation
         link: "https://drive.google.com/file/d/10OQTCzNy8afWTOxPlnSZsEC2p7ICHGr1/view?usp=drivesdk"
-        solution link: "https://drive.google.com/file/d/1T0qtHmL8s4fcGEQbvYwmgKi-8EXAVZaj/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1T0qtHmL8s4fcGEQbvYwmgKi-8EXAVZaj/view?usp=sharing"
       - type: exercise_video
         title: Problem 06-051
         link: "https://youtu.be/Q7PV2pxBuwc"
