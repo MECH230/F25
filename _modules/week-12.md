@@ -34,5 +34,6 @@ contents:
         title: Set 21 - General Plane Motion
         description: General Plane Motion
         link: "https://drive.google.com/file/d/1DYb5kZDtFHb2zkt1j6oQb8WzjKeX70BS/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1zJYjNX7rpxv3jJyY27ygkulOUKP2M2T-/view?usp=sharing"
       
 ---
