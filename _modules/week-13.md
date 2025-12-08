@@ -16,6 +16,7 @@ contents:
         title: Set 22 - Impulse Momentum for RB
         description: Impulse Momentum for RB
         link: "https://drive.google.com/file/d/1hEpgojVoo9hp0toHVOX6lFYy93x9XHwp/view?usp=sharing"
+        solution_link: "https://drive.google.com/file/d/1IlLcvmio2GYPjVlAr6RSoukpiiWJgOC8/view?usp=sharing"
       - type: homework
         title: HW 10 - Ice skater angular momentum conservations
         link: "https://drive.google.com/file/d/1HcCirFbRn_U-d5hlMa4sHl1O9a7oKrVK/view?usp=sharing"
